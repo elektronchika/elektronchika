@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elektronchika
 - 👀 I’m interested in electronics
-- 🌱 I’m learning programming
+- 🌱 I enjoy programming
 - 💞️ I’m looking to collaborate on open source embedded projects
 - 📫 How to reach me lazar.chervenkov@gmail.com
 
